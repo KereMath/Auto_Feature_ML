@@ -1,0 +1,29 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Processed data
+processed_data_no_window_12k/
+
+# Trained models (too large for GitHub)
+trained_models_no_window_12k
+
+# Large data files
+*.npy
+*.pkl
+*.h5
+*.hdf5
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
